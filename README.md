@@ -1,2 +1,2 @@
 # PumpScore
- Appl
+ Automatically extracts score information from Pump It Up Score Screen
