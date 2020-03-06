@@ -1,0 +1,35 @@
+{
+    "name": "PumpScores",
+    "securityToken": "PumpScores Token",
+    "description": "Beepboop",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [],
+    "id": "uBE0k_px4",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "fd8e967ed1b0e8f6a5ad2ad94ff78de7",
+    "assets": {
+        "fd8e967ed1b0e8f6a5ad2ad94ff78de7": {
+            "asset": {
+                "format": "png",
+                "id": "fd8e967ed1b0e8f6a5ad2ad94ff78de7",
+                "name": "pump.png",
+                "path": "file:C:/Users/henry.sue/Desktop/pumpscores/pump.png",
+                "size": {
+                    "width": 941,
+                    "height": 533
+                },
+                "state": 1,
+                "type": 1
+            },
+            "regions": [],
+            "version": "2.1.0"
+        }
+    }
+}
