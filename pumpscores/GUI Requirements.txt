@@ -1,0 +1,22 @@
+Google Integration:
+1. Enter spreadsheet URL
+2. Enter worksheet Name
+3. Add Service Account Email Address to Sharing Settings
+4. Add PIU Scoring OCR.json to folder
+(5. Oauth)
+(6. Add Oauth client_secret.json to folder)
+
+Real-Time Capture:
+1. Webcam selection
+2. 720p vs 1080p
+3. Webcam preview
+
+Oauth requirements:
+1. Homepage domain
+2. Support Email
+3. Privacy Policy on same domain
+4. 1 min video
+
+Upload Client:
+1. Single/Multi Upload
+2. Mark files already uploaded via moving to new folder?

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "piu-scoring-ocr",
+  "private_key_id": "f13d910f78d4723a401ebb8969038a353c5f4362",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC28oR/qBtUPRXT\nMYGoByL5actgm/8IqMg0saonrdgidMVuWQibqPGLWa0AVqeaJuqydMf8/GQWRG8Q\natZm5XFGxyBbAuItWyVYDTLYS938Mv4Nha+1VPQdSDaaGq0wD/z0l0J3NI4HIFX5\nrJXiruOWh4Wi0UmBl9RpnyHyz4DTkay2KORRFgZq99M4fNPcnJj4AezbxocA5eiv\n4BQZ+AeCKXLwP3kDaGtg6BTz5Y6Q/nOWwu1CcaUK/MJAzmPt34XhtF+ZWi3EO1PJ\nTMvoxEM/Epj4SjPxwVlL9TxiyIepuNGDKZBjrqBtzy7cN89XZOmMwYcPAI5uIyNy\n1JqfP8MnAgMBAAECggEAJxp/J6oO7VqBJ7sVM40S9KygQ+4T/Q3WfSzcac7Gu9ap\nvIRbSqo5tsdcKw5alKBs2egMNw7bdcb61k9/tE6mf7JgQBPFtFwfB0sK6yCMOjPM\nCafhfqjB5OBii13YVsWUE9Og6Unacbt/pPY2s1UeYDZnYf3J8GE7jbft0bB4oL/N\nzX1aV08dqGISodiTTm3a81n2I1apHCMK5ji8NrkeWfqnoWXrly37070fTNw/WV1c\nHySQZL8Eaqn+dLOKz7k8XjcUabjhD1TKDTn2g7XqWIu9PFT7V1DhCWk/I3KD3XdH\nKCoa/LVMmUezPeVnluFcVC20GrSyR+41wVOb1YmyQQKBgQDg6kaLAZOinccHPCaO\nbAAmNDJrM3Ab75wxMoeHlPQBIt5yRFKGh89Yw9vFq14rv3NpyfZczmVFWxSGrv6N\nYkFKYcQkDA0THZToFGKgWJxZtJxFEPRVOk3cRVQe+5cJ/wHENvQdUlCsUswSFqL9\nSdX/yUTOv7+0xs9CBCUUMNI9nQKBgQDQO2D2ifatDtceqhzdp4/ZheCVvJJtEDBL\nkb9uRAEngOats204tn0X2GOJb3//vLJEMtXt/66jDjySJSWq6t4xttjwPkFbailk\ngYY+54D8IvxviNkqXuvz2K4d5vGc9FfvoPukXBIyaeH88ZOM95xOGnC56QsaVi0t\n55Hl4WNKkwKBgDpgVCLsK9d/QBM+p3s7yOYhkhyE40o87LtQNCEapiJNXJMn7IuC\nYGzXmQk7K1wLevcwNkNsRpizxSYX8XXc1Llrmq8IebRGb0m1UMvxc9NMr2q1tdUR\nJvhO/kB0aIVtrJWy9bVOkiXH77OaMH+xVFvpb3SCDE3tdAncbYtKCKd5AoGAQBIV\nKqaWrPcE/91t1lHJdC+6Q7hrAX3arlXhJgdsp4AE+mtb7vhPkze0oMQbCVBBNbTC\nmGF0lZ06y+j8JxPvXDKbm4g8SelnZRJpgQ9wY6RMMfFUiLH+PeBs6qx1qUqRiBzr\ncM4Xl0V3EIIwWU6S3IFMMBfhn6/mZNp8zNPF3lsCgYA+B6j2NKNgOlZCsuIsgjKF\ng2wpAae4xvR+1zhaoQWHEQVK72utBmAq7S64ZQvGH4/hhIM5YnUW3MXKYponpdin\nZ+N6XBT9JnrlfFVOeH+mzEMhq0OrxEFgc3GEoIUNim+JEfyS71EvQzkhNw5B2ReR\nAHC+ZhvGb3/jAuRu3TIb8Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "piuscoringocr@piu-scoring-ocr.iam.gserviceaccount.com",
+  "client_id": "117251986855102867495",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/piuscoringocr%40piu-scoring-ocr.iam.gserviceaccount.com"
+}

@@ -1,0 +1,7 @@
+Bounding Boxes:
+
+Timer
+Total Score Label
+Fix AV boxes
+Fix Upscore boxes
+Fix Player 1 Name boxes
